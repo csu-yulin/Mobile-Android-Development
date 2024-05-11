@@ -12,7 +12,7 @@
 
 实现效果如下：
 
-<img src="../../../../../Download/Screen_recording_20240512_004344.gif" alt="Screen_recording_20240512_004344" style="zoom: 25%;" />
+<img src="https://raw.githubusercontent.com/csu-yulin/cloud/master/typora-img/Screen_recording_20240512_005800.gif" alt="Screen_recording_20240512_005800" style="zoom:25%;" />
 
 ![image-20240512003504069](https://raw.githubusercontent.com/csu-yulin/cloud/master/typora-img/image-20240512003504069.png)
 
