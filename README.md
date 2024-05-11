@@ -10,6 +10,10 @@
 
  
 
-如下图：
+实现效果如下：
 
-![untitled.gif](https://raw.githubusercontent.com/csu-yulin/cloud/master/typora-img/clip_image001.gif)
+<img src="../../../../../Download/Screen_recording_20240512_004344.gif" alt="Screen_recording_20240512_004344" style="zoom: 25%;" />
+
+![image-20240512003504069](https://raw.githubusercontent.com/csu-yulin/cloud/master/typora-img/image-20240512003504069.png)
+
+![image-20240512003516319](https://raw.githubusercontent.com/csu-yulin/cloud/master/typora-img/image-20240512003516319.png)
