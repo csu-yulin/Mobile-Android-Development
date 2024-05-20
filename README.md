@@ -21,4 +21,6 @@
 
 **实现效果如下：**
 
-*<img src="https://raw.githubusercontent.com/csu-yulin/cloud/master/typora-img/Screen_recording_20240520_211112.gif" alt="Screen_recording_20240520_211112" style="zoom:25%;" /><img src="https://raw.githubusercontent.com/csu-yulin/cloud/master/typora-img/Screenshot_20240520_211135.png" alt="Screenshot_20240520_211135" style="zoom: 25%;" />
+*<img src="https://raw.githubusercontent.com/csu-yulin/cloud/master/typora-img/Screen_recording_20240520_211112.gif" alt="Screen_recording_20240520_211112" style="zoom:25%;" />
+
+![image-20240520211723158](https://raw.githubusercontent.com/csu-yulin/cloud/master/typora-img/image-20240520211723158.png)
